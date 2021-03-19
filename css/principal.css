@@ -60,7 +60,20 @@ html {
 }
 
 .azul {
-    background-color: #66C4D9;
+    background-color: #016DAE;
     padding: 2rem 0rem;
+    color: #FFFFFF;
     /*align-items: center;*/
+}
+
+.corRodape {
+    background-color: #FFD600;
+    width: 100%;
+    padding: 50px 0px;
+}
+
+.corRodapefinal {
+    background-color: #8D5103;
+    width: 100%;
+    padding: 8px 0px;
 }
